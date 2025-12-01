@@ -96,21 +96,23 @@ The GA typically runs for 40-50 generations, continuously improving the encrypti
 ### Image Encryption Example
 
 **Encrypted Image:**
-![Image Encryption Result](https://github.com/user-attachments/assets/example-encryption.png)
+![Image Encryption Result](https://github.com/Jay121305/Hybrid-Image-Text-Encryption-using-Genetic-Algorithm-/blob/main/results/Screenshot%202025-10-07%20161341.png)
+
 *Original image is transformed into encrypted noise pattern*
 
 **Decrypted Image:**
-![Image Decryption Result](https://github.com/user-attachments/assets/example-decryption.png)
+![Image Decryption Result](https://github.com/Jay121305/Hybrid-Image-Text-Encryption-using-Genetic-Algorithm-/blob/main/results/Screenshot%202025-10-07%20161415.png)
+
 *Encrypted image is successfully recovered to original form*
 
 ### Text Encryption Example
 
 **Encrypted Text:**
-![Text Encryption Result](https://github.com/user-attachments/assets/example-text-encryption.png)
+![Text Encryption Result](https://github.com/Jay121305/Hybrid-Image-Text-Encryption-using-Genetic-Algorithm-/blob/main/results/Screenshot%202025-10-07%20161524.png)
 *Plain text: "HELLOWORLD" → Encrypted: "WEDRDWGXAD"*
 
 **Decrypted Text:**
-![Text Decryption Result](https://github.com/user-attachments/assets/example-text-decryption.png)
+![Text Decryption Result](https://github.com/Jay121305/Hybrid-Image-Text-Encryption-using-Genetic-Algorithm-/blob/main/results/Screenshot%202025-10-07%20161550.png)
 *Encrypted text is successfully decrypted back to: "HELLOWORLD"*
 
 ## 🎨 User Interface
@@ -190,7 +192,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
-**Jay Patel** - [@Jay121305](https://github.com/Jay121305)
+**Jay Gautam** - [@Jay121305](https://github.com/Jay121305)
 
 ## 📄 License
 
